@@ -2,7 +2,7 @@
 
 ## REPL - Read-Evaluate-Print-Loop
 
-```node
+```
 R - read user input
 E - evaluate user input
 P - Print or output result
