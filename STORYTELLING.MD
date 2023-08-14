@@ -24,6 +24,7 @@ This isn't bad; it's just a different way of telling the story, as the use of th
 ## Storytelling
 Research
 https://www.youtube.com/watch?v=r-Y1LRtsFaU
+https://www.youtube.com/watch?v=exk8GrGwxGs
 
 1. Find first the ending - Creo que si tenemos un buen ending podremos saber como crear el camino para llegar ahi
 2. Stop Telling, Show people what is happening
